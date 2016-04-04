@@ -1,0 +1,65 @@
+<Menu>
+ <Prodotto>
+  <Nome>Coca-Cola Piccola</Nome>
+  <Costo>2.5</Costo>
+  <Litro>0.33</Litro>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Coca-Cola Media</Nome>
+  <Costo>3.5</Costo>
+  <Litro>0.4</Litro>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Coca-Cola Caraffa</Nome>
+  <Costo>9.0</Costo>
+  <Litro>1</Litro>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Patatine fritte</Nome>
+  <Costo>2.5</Costo>
+  <Porzione>1</Porzione>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Fritto Misto</Nome>
+  <Costo>9.0</Costo>
+  <Porzione>4</Porzione>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Margherita</Nome>
+  <Costo>3.0</Costo>
+  <Integrale>No</Integrale>
+  <Surgelati>No</Surgelati>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Prosciutto e Funghi</Nome>
+  <Costo>4.0</Costo>
+  <Integrale>No</Integrale>
+  <Surgelati>No</Surgelati>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Tiramisù</Nome>
+  <Costo>4.0</Costo>
+  <Artigianale>Si</Artigianale>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Pannacotta</Nome>
+  <Costo>4.0</Costo>
+  <Artigianale>No</Artigianale>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Fanta Piccola</Nome>
+  <Costo>2.5</Costo>
+  <Litro>0.33</Litro>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Fritto Misto Baby</Nome>
+  <Costo>5.5</Costo>
+  <Porzione>2</Porzione>
+ </Prodotto>
+ <Prodotto>
+  <Nome>Viennese</Nome>
+  <Costo>4</Costo>
+  <Integrale>No</Integrale>
+  <Surgelati>No</Surgelati>
+ </Prodotto>
+</Menu>
